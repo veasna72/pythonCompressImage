@@ -1,7 +1,7 @@
 import os
 import PIL
 from PIL import Image
-from tkinter.filedialog import *
+#from tkinter.filedialog import *
 
 file_path = "r6.jpg"
 
